@@ -135,9 +135,9 @@ GameObject:
   - component: {fileID: 10847964}
   - component: {fileID: 10847963}
   - component: {fileID: 10847962}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Bridge (8)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -217,7 +217,7 @@ Transform:
   m_LocalScale: {x: 0.9819944, y: 0.59326, z: 0.19692144}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 32
+  m_RootOrder: 31
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &11768275
 GameObject:
@@ -233,7 +233,7 @@ GameObject:
   - component: {fileID: 11768276}
   m_Layer: 0
   m_Name: Cube (1)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -312,7 +312,7 @@ Transform:
   m_LocalScale: {x: 2.240114, y: 0.5212867, z: 2.305542}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 15
+  m_RootOrder: 14
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &93128462
 GameObject:
@@ -408,7 +408,7 @@ Transform:
   m_LocalScale: {x: 5.8178787, y: 5.8178787, z: 5.8178787}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 20
+  m_RootOrder: 19
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &100895232
 GameObject:
@@ -424,7 +424,7 @@ GameObject:
   - component: {fileID: 100895233}
   m_Layer: 0
   m_Name: Sphere (1)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -503,7 +503,7 @@ Transform:
   m_LocalScale: {x: 14.211237, y: -0.09412816, z: 14.211237}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 21
+  m_RootOrder: 20
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &107051616
 GameObject:
@@ -517,9 +517,9 @@ GameObject:
   - component: {fileID: 107051619}
   - component: {fileID: 107051618}
   - component: {fileID: 107051617}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Bridge (9)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -599,7 +599,7 @@ Transform:
   m_LocalScale: {x: 0.9819944, y: 0.59326, z: 0.19692144}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 33
+  m_RootOrder: 32
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &133374206
 GameObject:
@@ -615,7 +615,7 @@ GameObject:
   - component: {fileID: 133374207}
   m_Layer: 0
   m_Name: Sphere
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -694,7 +694,7 @@ Transform:
   m_LocalScale: {x: 16.882364, y: -0.11182038, z: 16.882364}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 12
+  m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &174611941
 GameObject:
@@ -710,7 +710,7 @@ GameObject:
   - component: {fileID: 174611942}
   m_Layer: 0
   m_Name: Cube (24)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -789,7 +789,7 @@ Transform:
   m_LocalScale: {x: 1.2877773, y: 0.20060994, z: 1.2877773}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 47
+  m_RootOrder: 46
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &235000672
 GameObject:
@@ -805,7 +805,7 @@ GameObject:
   - component: {fileID: 235000673}
   m_Layer: 0
   m_Name: Bridge (1)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -885,7 +885,7 @@ Transform:
   m_LocalScale: {x: 0.5148527, y: 1, z: 1.6083648}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 13
+  m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &248250025
 GameObject:
@@ -901,7 +901,7 @@ GameObject:
   - component: {fileID: 248250026}
   m_Layer: 0
   m_Name: Bridge
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -981,7 +981,7 @@ Transform:
   m_LocalScale: {x: 0.5148527, y: 1, z: 2.77372}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &270329504
 GameObject:
@@ -997,7 +997,7 @@ GameObject:
   - component: {fileID: 270329505}
   m_Layer: 0
   m_Name: Cube
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1076,7 +1076,7 @@ Transform:
   m_LocalScale: {x: 2.810154, y: 0.63170195, z: 2.652079}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 14
+  m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &283335960
 GameObject:
@@ -1090,9 +1090,9 @@ GameObject:
   - component: {fileID: 283335963}
   - component: {fileID: 283335962}
   - component: {fileID: 283335961}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (14)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1171,7 +1171,7 @@ Transform:
   m_LocalScale: {x: 1.2877773, y: 0.20060994, z: 1.2877773}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 36
+  m_RootOrder: 35
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &334600593
 GameObject:
@@ -1187,7 +1187,7 @@ GameObject:
   - component: {fileID: 334600594}
   m_Layer: 0
   m_Name: Bridge (5)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1267,7 +1267,7 @@ Transform:
   m_LocalScale: {x: 1.6552514, y: 1, z: 0.33193108}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 10
+  m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &376061924
 GameObject:
@@ -1362,7 +1362,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 29
+  m_RootOrder: 28
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &397339172
 GameObject:
@@ -1378,7 +1378,7 @@ GameObject:
   - component: {fileID: 397339173}
   m_Layer: 0
   m_Name: Cube (16)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1457,7 +1457,7 @@ Transform:
   m_LocalScale: {x: 1.2877773, y: 0.20060994, z: 1.2877773}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 38
+  m_RootOrder: 37
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &397590065
 GameObject:
@@ -1473,7 +1473,7 @@ GameObject:
   - component: {fileID: 397590066}
   m_Layer: 0
   m_Name: Cube (2)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1552,7 +1552,7 @@ Transform:
   m_LocalScale: {x: 2.283486, y: 0.434456, z: 2.283486}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 16
+  m_RootOrder: 15
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &624122118
 GameObject:
@@ -1647,7 +1647,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 27
+  m_RootOrder: 26
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &705507993
 GameObject:
@@ -1740,7 +1740,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 1
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
 --- !u!1 &711055353
 GameObject:
@@ -1756,7 +1756,7 @@ GameObject:
   - component: {fileID: 711055354}
   m_Layer: 0
   m_Name: Cube (19)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1835,7 +1835,7 @@ Transform:
   m_LocalScale: {x: 1.2877773, y: 0.20060994, z: 1.2877773}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 41
+  m_RootOrder: 40
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &740880562
 GameObject:
@@ -1851,7 +1851,7 @@ GameObject:
   - component: {fileID: 740880563}
   m_Layer: 0
   m_Name: platform
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1931,7 +1931,7 @@ Transform:
   m_LocalScale: {x: 1.5418103, y: 0.9943, z: 2.0541363}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 7
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &814140953
 GameObject:
@@ -1947,7 +1947,7 @@ GameObject:
   - component: {fileID: 814140954}
   m_Layer: 0
   m_Name: Bridge (3)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2027,7 +2027,7 @@ Transform:
   m_LocalScale: {x: 1.6552514, y: 1, z: 0.33193108}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 8
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &823887800
 GameObject:
@@ -2043,7 +2043,7 @@ GameObject:
   - component: {fileID: 823887801}
   m_Layer: 0
   m_Name: Cube (28)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2122,7 +2122,7 @@ Transform:
   m_LocalScale: {x: 1.2877773, y: 0.20060994, z: 1.2877773}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 51
+  m_RootOrder: 50
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &888638601
 GameObject:
@@ -2217,7 +2217,7 @@ Transform:
   m_LocalScale: {x: 0.69033, y: 4.696836, z: 4.840966}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &897325034
 GameObject:
@@ -2231,9 +2231,9 @@ GameObject:
   - component: {fileID: 897325037}
   - component: {fileID: 897325036}
   - component: {fileID: 897325035}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Bridge (7)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2313,7 +2313,7 @@ Transform:
   m_LocalScale: {x: 0.9819944, y: 0.59326, z: 0.19692144}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 31
+  m_RootOrder: 30
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &904464974
 GameObject:
@@ -2328,8 +2328,9 @@ GameObject:
   - component: {fileID: 904464976}
   - component: {fileID: 904464975}
   - component: {fileID: 904464979}
+  - component: {fileID: 904464980}
   m_Layer: 0
-  m_Name: Capsule
+  m_Name: CharacterController
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2406,11 +2407,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 904464974}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -21.77, y: 2.13, z: -1.38}
+  m_LocalPosition: {x: -21.77, y: 2.13, z: -0.68}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
+  m_Children:
+  - {fileID: 963194228}
+  - {fileID: 1739115566}
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!54 &904464979
 Rigidbody:
@@ -2428,6 +2431,31 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+--- !u!114 &904464980
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 904464974}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: faa4c51bcf91d8742a0b7660a88c0621, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  maxSpeed: 1
+  normalSpeed: 10
+  sprintspeed: 20
+  rotation: 0
+  camRotation: 0
+  groundChecker: {fileID: 0}
+  groundLayer:
+    serializedVersion: 2
+    m_Bits: 0
+  jumpForce: 300
+  rotationSpeed: 2
+  camRotationSpeed: 1.5
+  maxSprint: 5
 --- !u!1 &923426288
 GameObject:
   m_ObjectHideFlags: 0
@@ -2442,7 +2470,7 @@ GameObject:
   - component: {fileID: 923426289}
   m_Layer: 0
   m_Name: Cube (29)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2521,7 +2549,7 @@ Transform:
   m_LocalScale: {x: 1.2877773, y: 0.20060994, z: 1.2877773}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 52
+  m_RootOrder: 51
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &963194225
 GameObject:
@@ -2599,11 +2627,11 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 1, z: -10}
+  m_LocalRotation: {x: -0.09462295, y: 0.03045493, z: -0.0028961406, w: -0.99504304}
+  m_LocalPosition: {x: 0.3993683, y: 1.2533288, z: -6.5180817}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 904464978}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1018155747
@@ -2620,7 +2648,7 @@ GameObject:
   - component: {fileID: 1018155748}
   m_Layer: 0
   m_Name: Cube (25)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2699,7 +2727,7 @@ Transform:
   m_LocalScale: {x: 1.2877773, y: 0.20060994, z: 1.2877773}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 48
+  m_RootOrder: 47
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1040176200
 GameObject:
@@ -2794,7 +2822,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 26
+  m_RootOrder: 25
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1142617778
 GameObject:
@@ -2810,7 +2838,7 @@ GameObject:
   - component: {fileID: 1142617779}
   m_Layer: 0
   m_Name: Cube (18)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2889,7 +2917,7 @@ Transform:
   m_LocalScale: {x: 1.2877773, y: 0.20060994, z: 1.2877773}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 40
+  m_RootOrder: 39
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1143120144
 GameObject:
@@ -2984,7 +3012,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 28
+  m_RootOrder: 27
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1163025826
 GameObject:
@@ -3000,7 +3028,7 @@ GameObject:
   - component: {fileID: 1163025827}
   m_Layer: 0
   m_Name: Cube (4)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3079,7 +3107,7 @@ Transform:
   m_LocalScale: {x: 2.5897012, y: 0.49271652, z: 2.4367015}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 18
+  m_RootOrder: 17
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1230044482
 GameObject:
@@ -3095,7 +3123,7 @@ GameObject:
   - component: {fileID: 1230044483}
   m_Layer: 0
   m_Name: Bridge (6)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3175,7 +3203,7 @@ Transform:
   m_LocalScale: {x: 0.3598228, y: 0.97586, z: 2.0214045}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 22
+  m_RootOrder: 21
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1275006008
 GameObject:
@@ -3270,7 +3298,7 @@ Transform:
   m_LocalScale: {x: 0.69033, y: 4.696836, z: 4.840966}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1324278391
 GameObject:
@@ -3286,7 +3314,7 @@ GameObject:
   - component: {fileID: 1324278392}
   m_Layer: 0
   m_Name: platform (1)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3366,7 +3394,7 @@ Transform:
   m_LocalScale: {x: 1.5418103, y: 0.9943, z: 2.0541363}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 11
+  m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1393385431
 GameObject:
@@ -3382,7 +3410,7 @@ GameObject:
   - component: {fileID: 1393385432}
   m_Layer: 0
   m_Name: Cube (27)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3461,7 +3489,7 @@ Transform:
   m_LocalScale: {x: 1.2877773, y: 0.20060994, z: 1.2877773}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 50
+  m_RootOrder: 49
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1488744570
 GameObject:
@@ -3477,7 +3505,7 @@ GameObject:
   - component: {fileID: 1488744571}
   m_Layer: 0
   m_Name: Cube (26)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3556,7 +3584,7 @@ Transform:
   m_LocalScale: {x: 1.2877773, y: 0.20060994, z: 1.2877773}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 49
+  m_RootOrder: 48
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1495785791
 GameObject:
@@ -3572,7 +3600,7 @@ GameObject:
   - component: {fileID: 1495785792}
   m_Layer: 0
   m_Name: platform (2)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3652,7 +3680,7 @@ Transform:
   m_LocalScale: {x: 1.5103271, y: 0.5110702, z: 0.875681}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 19
+  m_RootOrder: 18
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1589390885
 GameObject:
@@ -3668,7 +3696,7 @@ GameObject:
   - component: {fileID: 1589390886}
   m_Layer: 0
   m_Name: Cylinder (1)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3748,7 +3776,7 @@ Transform:
   m_LocalScale: {x: 5.8178787, y: 5.8178787, z: 5.8178787}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 43
+  m_RootOrder: 42
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1653423775
 GameObject:
@@ -3764,7 +3792,7 @@ GameObject:
   - component: {fileID: 1653423776}
   m_Layer: 0
   m_Name: Cube (3)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3843,7 +3871,7 @@ Transform:
   m_LocalScale: {x: 2.5897012, y: 0.49271652, z: 2.5897012}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 17
+  m_RootOrder: 16
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1668268770
 GameObject:
@@ -3859,7 +3887,7 @@ GameObject:
   - component: {fileID: 1668268771}
   m_Layer: 0
   m_Name: Cube (23)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3938,7 +3966,7 @@ Transform:
   m_LocalScale: {x: 1.2877773, y: 0.20060994, z: 1.2877773}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 46
+  m_RootOrder: 45
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1690336165
 GameObject:
@@ -3952,9 +3980,9 @@ GameObject:
   - component: {fileID: 1690336168}
   - component: {fileID: 1690336167}
   - component: {fileID: 1690336166}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (13)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4033,7 +4061,7 @@ Transform:
   m_LocalScale: {x: 4.070618, y: 0.22984658, z: 8.958512}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 35
+  m_RootOrder: 34
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1709089773
 GameObject:
@@ -4128,7 +4156,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 30
+  m_RootOrder: 29
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1709228036
 GameObject:
@@ -4142,9 +4170,9 @@ GameObject:
   - component: {fileID: 1709228039}
   - component: {fileID: 1709228038}
   - component: {fileID: 1709228037}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (15)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4223,7 +4251,7 @@ Transform:
   m_LocalScale: {x: 1.2877773, y: 0.20060994, z: 1.2877773}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 37
+  m_RootOrder: 36
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1728891323
 GameObject:
@@ -4318,7 +4346,37 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 24
+  m_RootOrder: 23
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1739115565
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1739115566}
+  m_Layer: 3
+  m_Name: GroundChecker
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1739115566
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1739115565}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.08, y: -1.079, z: -0.05}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 904464978}
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1749662525
 GameObject:
@@ -4334,7 +4392,7 @@ GameObject:
   - component: {fileID: 1749662526}
   m_Layer: 0
   m_Name: Bridge (10)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4414,7 +4472,7 @@ Transform:
   m_LocalScale: {x: 0.9819944, y: 0.59326, z: 0.19692144}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 53
+  m_RootOrder: 52
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1768216549
 GameObject:
@@ -4430,7 +4488,7 @@ GameObject:
   - component: {fileID: 1768216550}
   m_Layer: 0
   m_Name: Cube (21)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4509,7 +4567,7 @@ Transform:
   m_LocalScale: {x: 1.2877773, y: 0.20060994, z: 1.2877773}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 44
+  m_RootOrder: 43
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1837996111
 GameObject:
@@ -4525,7 +4583,7 @@ GameObject:
   - component: {fileID: 1837996112}
   m_Layer: 0
   m_Name: Cube (17)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4604,7 +4662,7 @@ Transform:
   m_LocalScale: {x: 1.2877773, y: 0.20060994, z: 1.2877773}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 39
+  m_RootOrder: 38
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1858830559
 GameObject:
@@ -4699,7 +4757,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 25
+  m_RootOrder: 24
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1858880973
 GameObject:
@@ -4715,7 +4773,7 @@ GameObject:
   - component: {fileID: 1858880974}
   m_Layer: 0
   m_Name: Cube (20)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4794,7 +4852,7 @@ Transform:
   m_LocalScale: {x: 1.2877773, y: 0.20060994, z: 1.2877773}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 42
+  m_RootOrder: 41
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1972771174
 GameObject:
@@ -4889,7 +4947,7 @@ Transform:
   m_LocalScale: {x: 2.7269335, y: 0.2383848, z: 1.1287853}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 55
+  m_RootOrder: 54
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1990173828
 GameObject:
@@ -4905,7 +4963,7 @@ GameObject:
   - component: {fileID: 1990173829}
   m_Layer: 0
   m_Name: Bridge (4)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4985,7 +5043,7 @@ Transform:
   m_LocalScale: {x: 1.6552514, y: 1, z: 0.33193108}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 9
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2037800223
 GameObject:
@@ -5081,7 +5139,7 @@ Transform:
   m_LocalScale: {x: 5.8178787, y: 5.8178787, z: 5.8178787}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 54
+  m_RootOrder: 53
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2062060326
 GameObject:
@@ -5177,7 +5235,7 @@ Transform:
   m_LocalScale: {x: 11.051961, y: 7.636182, z: 8.438091}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2089919153
 GameObject:
@@ -5272,7 +5330,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 23
+  m_RootOrder: 22
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2092638807
 GameObject:
@@ -5288,7 +5346,7 @@ GameObject:
   - component: {fileID: 2092638808}
   m_Layer: 0
   m_Name: Cube (22)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5367,7 +5425,7 @@ Transform:
   m_LocalScale: {x: 1.2877773, y: 0.20060994, z: 1.2877773}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 45
+  m_RootOrder: 44
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2107218588
 GameObject:
@@ -5383,7 +5441,7 @@ GameObject:
   - component: {fileID: 2107218589}
   m_Layer: 0
   m_Name: Sphere (2)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5462,5 +5520,5 @@ Transform:
   m_LocalScale: {x: 11.747748, y: -0.07781124, z: 11.747748}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 34
+  m_RootOrder: 33
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
