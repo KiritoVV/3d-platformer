@@ -22,8 +22,9 @@ public class CharacterController : MonoBehaviour
 
     public float maxSprint = 5.0f;
     float sprintTimer;
+    internal float height;
 
-     void Start()
+    void Start()
     {
         Cursor.lockState = CursorLockMode.Locked;
 
