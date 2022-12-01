@@ -24,11 +24,11 @@ public class CharacterController : MonoBehaviour
     float sprintTimer;
     internal float height;
 
-    Animator myAnim;
+    Animator myAnimator;
 
     void Start()
     {
-        myAnim = GetComponentInChildren<Animator>();
+        myAnimator = GetComponentInChildren<Animator>();
 
         Cursor.lockState = CursorLockMode.Locked;
 
@@ -65,7 +65,8 @@ public class CharacterController : MonoBehaviour
        //transform.position = transform.position + (transform.forward * Input.GetAxis("Vertical") * maxSpeed);
        Vector3 newVelocity = transform.forward * Input.GetAxis("Vertical") * (maxSpeed) * maxSpeed + (transform.right * Input.GetAxis("Horizontal") * maxSpeed);
 
-        myAnim.SetFloat("New Float", newVelocity.magnitude);
+        myAnimator.SetFloat("speed", newVelocity.magnitude);
+        Debug.Log("Sprint"); 
 
         myRigidbody.velocity = new Vector3(newVelocity.x, myRigidbody.velocity.y, newVelocity.z);
 
