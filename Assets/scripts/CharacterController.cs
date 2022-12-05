@@ -17,8 +17,8 @@ public class CharacterController : MonoBehaviour
     public LayerMask groundLayer;
     public float jumpForce = 300.0f;
 
-    public float rotationSpeed = 2.0f;
-    public float camRotationSpeed = 1.5f;
+    public float rotationSpeed = 0.5f;
+    public float camRotationSpeed = 0.5f;
 
     public float maxSprint = 5.0f;
     float sprintTimer;

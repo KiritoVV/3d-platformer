@@ -4,9 +4,13 @@ using UnityEngine;
 
 public class Respawn : MonoBehaviour
 {
-
-    void OnTriggerEnter(Collider other)
+    private void OnTriggerEnter(Collider other)
     {
-        Application.LoadLevel(Application.loadedLevel);
+        if (other.tag == "Player")
+        {
+            UnityEngine.SceneManagement.SceneManager.LoadScene(1);
+        }
     }
+
+
 }
