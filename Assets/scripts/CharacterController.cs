@@ -24,6 +24,11 @@ public class CharacterController : MonoBehaviour
     float sprintTimer;
     internal float height;
 
+    public AudioClip Forest;
+    public AudioSource ForestPlayer;
+
+   
+
     Animator myAnimator;
 
     void Start()

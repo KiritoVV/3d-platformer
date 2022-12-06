@@ -8,7 +8,7 @@ public class Respawn : MonoBehaviour
     {
         if (other.tag == "Player")
         {
-            UnityEngine.SceneManagement.SceneManager.LoadScene(1);
+            UnityEngine.SceneManagement.SceneManager.LoadScene(0);
         }
     }
 
